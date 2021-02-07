@@ -8,4 +8,4 @@
 title                       : The StaticFrame Book  # The title of the book. Will be placed in the left navbar.
 author                      : Investment Systems  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
-logo                        : sf-logo-web_icon.png  # A path to the book logo
+logo                        : sf-logo-web_icon.png
