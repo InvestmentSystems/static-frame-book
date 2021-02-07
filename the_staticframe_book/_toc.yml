@@ -1,0 +1,23 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: markdown/static_frame_introduction
+
+- part: Getting Started
+  chapters:
+  - file: notebooks/sfb-chapter-placeholder
+
+- part: Writing Effective StaticFrame
+  numbered: true
+  chapters:
+  - file: notebooks/sfb-chapter-placeholder
+    sections:
+      - file: notebooks/sfb-chapter-placeholder
+      - file: notebooks/sfb-chapter-placeholder
+- part: Cookbook
+  numbered: true
+  chapters:
+  - file: notebooks/sfb-chapter-placeholder
+    sections:
+      - file: notebooks/sfb-chapter-placeholder
+      - file: notebooks/sfb-chapter-placeholder
+
