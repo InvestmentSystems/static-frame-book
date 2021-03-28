@@ -4,6 +4,17 @@
 Main Heading (start with the single # and then go to ##. dont skip to ###)
 ```
 
+````{panels}
+__Introduction__
+
+[Frame versus FrameGO](../notebooks/sfb-chapter-placeholder.ipynb)
+---
+
+```{link-button} content/panels
+:text: Clickable right panel
+:type: ref
+:classes: stretched-link
+
 import static_frame as sf
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...
