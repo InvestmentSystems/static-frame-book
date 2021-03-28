@@ -5,15 +5,30 @@ Main Heading (start with the single # and then go to ##. dont skip to ###)
 ```
 
 ````{panels}
-__Introduction__
+__Getting Started__
 
-[Frame versus FrameGO](../notebooks/sfb-chapter-placeholder.ipynb)
+[Frame versus FrameGO](../notebooks/sfb-chapter-placeholder.ipynb)  
 ---
 
-```{link-button} content/panels
-:text: Clickable right panel
-:type: ref
-:classes: stretched-link
+__Creating Frames__
+
+[Frame versus FrameGO](../notebooks/sfb-chapter-placeholder.ipynb)  
+---
+__Selection Basics__
+
+[Selecting from Series](../notebooks/sfb-chapter-placeholder.ipynb)  
+[Selecting from Frame](../notebooks/sfb-chapter-placeholder.ipynb)  
+---
+__Working with Files__ 
+
+[Reading from text files](../notebooks/sfb-chapter-placeholder.ipynb)  
+[Writing text files](../notebooks/sfb-chapter-placeholder.ipynb)  
+[Writing pickles](../notebooks/sfb-chapter-placeholder.ipynb)  
+[Reading from pickles](../notebooks/sfb-chapter-placeholder.ipynb)
+---
+````
+
+
 
 import static_frame as sf
 
